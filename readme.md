@@ -4,7 +4,7 @@
 SolanaFriend is an open-source Solana-based implementation inspired by Friend.Tech. With this initiative, we aim to recreate the core functionalities of Friend.Tech on the Solana blockchain, ensuring a decentralized, efficient, and transparent trading environment.
 
 🚀 Overview
-FriendTech Token on Solana utilizes the capabilities of the Solana blockchain to offer users the ability to buy and sell shares using a dual-phase pricing algorithm. This dynamic pricing considers factors such as the number of current holders, trading volume, and the time since the last trade.
+FriendTech on Solana utilizes the capabilities of the Solana blockchain to offer users the ability to buy and sell shares using a dual-phase pricing algorithm. This dynamic pricing considers factors such as the number of current holders, trading volume, and the time since the last trade.
 
 🐦 Connection with Twitter
 To align with the social trading aspects of Friend.Tech, future implementations will incorporate Twitter integrations. This will allow users to share their trades, strategies, and portfolio compositions on Twitter, promoting transparency and community engagement.
