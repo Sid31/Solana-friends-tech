@@ -1,3 +1,5 @@
+[![Screenshot-2023-09-01-at-11-22-35.png](https://i.postimg.cc/sX4Mzkfh/Screenshot-2023-09-01-at-11-22-35.png)](https://postimg.cc/sQ1j90hj)
+
 🌐 SolanaFriend on Solana
 SolanaFriend is an open-source Solana-based implementation inspired by Friend.Tech. With this initiative, we aim to recreate the core functionalities of Friend.Tech on the Solana blockchain, ensuring a decentralized, efficient, and transparent trading environment.
 
